@@ -1,5 +1,4 @@
-# Schedule-Max: The Ultimate Serverless Daily Planner
----
+# Schedule-Max: Master Your Day
 
 <hr>
 
@@ -222,3 +221,11 @@ Feel free to fork this repository and submit pull requests. Areas for improvemen
 
 ## 📄 License
 MIT License. Free to use and modify.
+---
+
+## 🤝 Credits
+---
+
+***Made with ❤️ by [Anurag Bhaskarya](https://github.com/AnuragBhaskarya)***
+> "Sab samay samay ka khel hai." (Everything is a game of time.)
+---
