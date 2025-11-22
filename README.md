@@ -1,6 +1,12 @@
 # Schedule-Max: The Ultimate Serverless Daily Planner
 ---
 
+<hr>
+
+![Github_Banner_main](https://github.com/user-attachments/assets/6ea1a9fb-3e6b-408f-b1c9-1e7c59a787dc)
+
+<hr>
+
 **Schedule-Max** is a robust, high-performance daily planner and routine manager built entirely on **Cloudflare Workers** and **Upstash Redis**. It combines the speed of a Single Page Application (SPA) with the reliability of Server-Side Rendering (SSR).
 
 It features Google OAuth login, offline support (PWA), real-time Telegram notifications, and a beautiful "Optimistic UI" that feels instant even on slow networks.
