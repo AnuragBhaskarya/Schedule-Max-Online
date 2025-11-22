@@ -165,6 +165,25 @@ compatibility_date = "2023-10-30"
 [triggers]
 crons = ["* * * * *"]
 ```
+### if you have a `wrangler.jsonc`
+then 
+```jsonc
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "schedule-max",
+	"main": "src/index.js",
+	"compatibility_date": "2025-11-15",
+	"observability": {
+		"enabled": true
+	},
+  "triggers": {
+    "crons": [
+      "* * * * *",
+    ]
+  },
+}
+```
+
 
 ### 2. Deploy
 Run the deployment command:
